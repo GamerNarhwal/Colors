@@ -1,13 +1,10 @@
 {
-  "name": "render-project",
+  "name": "colors",
   "version": "1.0.0",
-  "description": "A Node.js app for Render",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {}
-}```
+}
